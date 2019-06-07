@@ -10,4 +10,4 @@
 
 TBD:
 - FIFO access
-- Accellerometer calibration no implemented yet
+- Accelerometer calibration no implemented yet
